@@ -1,0 +1,10 @@
+## Interface: 110002
+
+## Title: Order Shopping List   
+## Notes: Creates a shopping list for whatever
+## Author: Negative0
+## Version: v1.6
+## SavedVariables: ShoppingList, ListDisplay
+
+
+OrderShoppingList.xml
